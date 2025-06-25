@@ -11,4 +11,5 @@ Addition, subtraction, multiplication, and division
 Dark UI with modern button layout
 Easy-to-use interface
 Error alerts via pop-up
+
 ![Hangman GUI](calculator_interface.jpg)
